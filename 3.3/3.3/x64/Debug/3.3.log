@@ -1,0 +1,8 @@
+﻿  源.cpp
+C:\Users\zhy20\Desktop\软工240424\3.3\chenge.h(5,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+C:\Users\zhy20\Desktop\软工240424\3.3\chenge.h(10,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+  3.3.vcxproj -> C:\Users\zhy20\Desktop\软工240424\3.3\x64\Debug\3.3.exe
